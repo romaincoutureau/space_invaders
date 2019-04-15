@@ -1,0 +1,2367 @@
+fileFormatVersion: 2
+guid: f5f7680367c4e054cb4b88d8ab3d6c6b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sharp X68000 - Zugya - Player Ship_0
+    21300002: Sharp X68000 - Zugya - Player Ship_1
+    21300004: Sharp X68000 - Zugya - Player Ship_2
+    21300006: Sharp X68000 - Zugya - Player Ship_3
+    21300008: Sharp X68000 - Zugya - Player Ship_4
+    21300010: Sharp X68000 - Zugya - Player Ship_5
+    21300012: Sharp X68000 - Zugya - Player Ship_6
+    21300014: Sharp X68000 - Zugya - Player Ship_7
+    21300016: Sharp X68000 - Zugya - Player Ship_8
+    21300018: Sharp X68000 - Zugya - Player Ship_9
+    21300020: Sharp X68000 - Zugya - Player Ship_10
+    21300022: Sharp X68000 - Zugya - Player Ship_11
+    21300024: Sharp X68000 - Zugya - Player Ship_12
+    21300026: Sharp X68000 - Zugya - Player Ship_13
+    21300028: Sharp X68000 - Zugya - Player Ship_14
+    21300030: Sharp X68000 - Zugya - Player Ship_15
+    21300032: Sharp X68000 - Zugya - Player Ship_16
+    21300034: Sharp X68000 - Zugya - Player Ship_17
+    21300036: Sharp X68000 - Zugya - Player Ship_18
+    21300038: Sharp X68000 - Zugya - Player Ship_19
+    21300040: Sharp X68000 - Zugya - Player Ship_20
+    21300042: Sharp X68000 - Zugya - Player Ship_21
+    21300044: Sharp X68000 - Zugya - Player Ship_22
+    21300046: Sharp X68000 - Zugya - Player Ship_23
+    21300048: Sharp X68000 - Zugya - Player Ship_24
+    21300050: Sharp X68000 - Zugya - Player Ship_25
+    21300052: Sharp X68000 - Zugya - Player Ship_26
+    21300054: Sharp X68000 - Zugya - Player Ship_27
+    21300056: Sharp X68000 - Zugya - Player Ship_28
+    21300058: Sharp X68000 - Zugya - Player Ship_29
+    21300060: Sharp X68000 - Zugya - Player Ship_30
+    21300062: Sharp X68000 - Zugya - Player Ship_31
+    21300064: Sharp X68000 - Zugya - Player Ship_32
+    21300066: Sharp X68000 - Zugya - Player Ship_33
+    21300068: Sharp X68000 - Zugya - Player Ship_34
+    21300070: Sharp X68000 - Zugya - Player Ship_35
+    21300072: Sharp X68000 - Zugya - Player Ship_36
+    21300074: Sharp X68000 - Zugya - Player Ship_37
+    21300076: Sharp X68000 - Zugya - Player Ship_38
+    21300078: Sharp X68000 - Zugya - Player Ship_39
+    21300080: Sharp X68000 - Zugya - Player Ship_40
+    21300082: Sharp X68000 - Zugya - Player Ship_41
+    21300084: Sharp X68000 - Zugya - Player Ship_42
+    21300086: Sharp X68000 - Zugya - Player Ship_43
+    21300088: Sharp X68000 - Zugya - Player Ship_44
+    21300090: Sharp X68000 - Zugya - Player Ship_45
+    21300092: Sharp X68000 - Zugya - Player Ship_46
+    21300094: Sharp X68000 - Zugya - Player Ship_47
+    21300096: Sharp X68000 - Zugya - Player Ship_48
+    21300098: Sharp X68000 - Zugya - Player Ship_49
+    21300100: Sharp X68000 - Zugya - Player Ship_50
+    21300102: Sharp X68000 - Zugya - Player Ship_51
+    21300104: Sharp X68000 - Zugya - Player Ship_52
+    21300106: Sharp X68000 - Zugya - Player Ship_53
+    21300108: Sharp X68000 - Zugya - Player Ship_54
+    21300110: Sharp X68000 - Zugya - Player Ship_55
+    21300112: Sharp X68000 - Zugya - Player Ship_56
+    21300114: Sharp X68000 - Zugya - Player Ship_57
+    21300116: Sharp X68000 - Zugya - Player Ship_58
+    21300118: Sharp X68000 - Zugya - Player Ship_59
+    21300120: Sharp X68000 - Zugya - Player Ship_60
+    21300122: Sharp X68000 - Zugya - Player Ship_61
+    21300124: Sharp X68000 - Zugya - Player Ship_62
+    21300126: Sharp X68000 - Zugya - Player Ship_63
+    21300128: Sharp X68000 - Zugya - Player Ship_64
+    21300130: Sharp X68000 - Zugya - Player Ship_65
+    21300132: Sharp X68000 - Zugya - Player Ship_66
+    21300134: Sharp X68000 - Zugya - Player Ship_67
+    21300136: Sharp X68000 - Zugya - Player Ship_68
+    21300138: Sharp X68000 - Zugya - Player Ship_69
+    21300140: Sharp X68000 - Zugya - Player Ship_70
+    21300142: Sharp X68000 - Zugya - Player Ship_71
+    21300144: Sharp X68000 - Zugya - Player Ship_72
+    21300146: Sharp X68000 - Zugya - Player Ship_73
+    21300148: Sharp X68000 - Zugya - Player Ship_74
+    21300150: Sharp X68000 - Zugya - Player Ship_75
+    21300152: Sharp X68000 - Zugya - Player Ship_76
+    21300154: Sharp X68000 - Zugya - Player Ship_77
+    21300156: Sharp X68000 - Zugya - Player Ship_78
+    21300158: Sharp X68000 - Zugya - Player Ship_79
+    21300160: Sharp X68000 - Zugya - Player Ship_80
+    21300162: Sharp X68000 - Zugya - Player Ship_81
+    21300164: Sharp X68000 - Zugya - Player Ship_82
+    21300166: Sharp X68000 - Zugya - Player Ship_83
+    21300168: Sharp X68000 - Zugya - Player Ship_84
+    21300170: Sharp X68000 - Zugya - Player Ship_85
+    21300172: Sharp X68000 - Zugya - Player Ship_86
+    21300174: Sharp X68000 - Zugya - Player Ship_87
+    21300176: Sharp X68000 - Zugya - Player Ship_88
+    21300178: Sharp X68000 - Zugya - Player Ship_89
+    21300180: Sharp X68000 - Zugya - Player Ship_90
+    21300182: Sharp X68000 - Zugya - Player Ship_91
+    21300184: Sharp X68000 - Zugya - Player Ship_92
+    21300186: Sharp X68000 - Zugya - Player Ship_93
+    21300188: Sharp X68000 - Zugya - Player Ship_94
+    21300190: Sharp X68000 - Zugya - Player Ship_95
+    21300192: Sharp X68000 - Zugya - Player Ship_96
+    21300194: Sharp X68000 - Zugya - Player Ship_97
+    21300196: Sharp X68000 - Zugya - Player Ship_98
+    21300198: Sharp X68000 - Zugya - Player Ship_99
+    21300200: Sharp X68000 - Zugya - Player Ship_100
+    21300202: Sharp X68000 - Zugya - Player Ship_101
+    21300204: Sharp X68000 - Zugya - Player Ship_102
+    21300206: Sharp X68000 - Zugya - Player Ship_103
+    21300208: Sharp X68000 - Zugya - Player Ship_104
+    21300210: Sharp X68000 - Zugya - Player Ship_105
+    21300212: Sharp X68000 - Zugya - Player Ship_106
+    21300214: Sharp X68000 - Zugya - Player Ship_107
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 164
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e0a80c41a77847968abdf2dee5f42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529d81549e8f7a4db46ade90b3bdee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 158
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9742bf9675d554790f67d50c1b5f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 158
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55406e78f453f3499edb1254036461c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75597743907a96844863449fcd23f9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0566e0d8621e148479a611efd15f455d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 159
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a7601d43740cb4b9bf990dc84dc2f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 159
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b31ba12de5e1249acc6f9773e755ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 159
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646ab217f626f9f47944cd5af5dba3c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 159
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b3c807388ac0848ae94b00eed7b2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 159
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43c42332100794cb75610e5237bc17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 159
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079688967e4c26746848805acde41c2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5497b316728548a5402cc4e275553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc61afeb8a0e1f42abbc7cd1cdb4010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f01bdbca848a4eb85a2d3d54c25e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee5c0f6cec39a49b231ecea2407f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 131
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa3346b6d50764ca806a961e894803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 132
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140012f2faabfc14d9ea698c1fd94803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d11bfd20ddd56498bfa76c7559409a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 140
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7ee32eeef0d3e499da315abfc3f057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe57dfbfd35c444b787a68daad59ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 142
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41d6d58353bea84aa68ba37326dcfc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 139
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e84d0f0eef9b49a2414f4bd705ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 142
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2470a06069f63744c8694a997180c9c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 147
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20cc30cbde50064b9c94f4d03cd4334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 141
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33272b3d701fd224d9a5907a671162f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 140
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74719f900ba3434b8bc372fdf7881eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 139
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f7b225fa9d6864cb3d2288fe780b51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8157ea5270bbd469d095f511b7a613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c25d38cb5b9b94bb1761bb7ded4dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8de60e9c354bc439088e5db7be95d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 139
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9bdb7e27cc12149ac2101505b6465f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b548dfcfec1a9ad47a9892d241449731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb682b10a246b441ad80da539708202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede343e6136cedb419549d08bff3ca02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 101
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751641ca1d6723e459044e5f7aa4bfa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 45
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7a49b408d4bba4993493db031432ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 17
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b9c01a500e7de46bdb496fcbc4bc88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c631350c7c383f34fa767bb23ce382f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 89
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4811367fdc1d149a3553ac520aac11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 55
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59dade72535c084383b6df77b7aedf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 57
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe72411ff4438244994cbd6fd72ab3b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9464e7be624fa408c4b153656eeefa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 54
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25026d9b2d939ce4283b14cd80473e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 54
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d188020ab5ad49bf42d185ec8e918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02c44e26ab27242aad98a4edf0c2eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f27a8714d1064e8459b78a986185d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 34
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc7d7ea03d396743b6d372c2ba12054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10fc8a24cdfca4b8093b39ce82906a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620f64961c4b0244bdf4666efee908e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60110304f76542c4a9f6f2eab6ff4cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e46901c405f74eb48e063efd78d43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e028a0fd5793b4cb3a278de4d5c8c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ace1c921410af439424a6beefd7390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_54
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a64eb6a19e0104db40a663f2e3d7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86c6b25df52e574ca73bceb9110ff12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_56
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d3d5e42873bf541880411bb22e687f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324bbb9a96a8454c9fb8b0966df52da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349c9c0b5cac164381f5cfdc210b4a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac687160fd0c74ea2965ada23a7190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_60
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2475abc932de504085e019625e5a332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095c1857505de034e907a924425b2c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945db7cd52704b46ab3acf51047c6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500b5782ff6ee24c8eb544404e16355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11088c30f531f6c4fbbc119fde21c158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d075b93ac3d074fb5fa5bf5e2b1fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0133913aeb3584384166644a608d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e418a8b273e44cb6571581068b39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309575bed7b6f742abaace1905dfb38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816104b953c03fb40a2a71587fe5f06c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b1c34b7f470ba44bfe7fe709d92476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a52aae435d1f149871c61e4a63cb0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e1c298a7d3eec4eaca0a05812368df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a1dda1e0bf3e94f85f6359c88f17ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ea85f951c65d4d84ce839d34887a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0996aa29e1b34194eab978a0495a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_76
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964aa95e82397fb47ad5363b46b78a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1881b9ab12ea9479fa073f09297e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a143f0e426f3a3468c3a42c3b48652c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_79
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b5e4ed2bc79e4186f5ddc35018a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_80
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 17
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b61117ee4c1c4caa1d8afbf0fbda3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a68ac8102fd9c44e88b18034cbbb00f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13ffe101bfc4754ebe0211b269620db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea80178c767d14b92085c9c7072dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_84
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48839c39f3da3ab41a55ebb3e7a41942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_85
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97960255027981940b3df121b619ad0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b48e91fa21cf4ea43b9b028e3a2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ce15b2a5c85684dbefcbe558fe1e0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_88
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aea7e8f1688e04e8e8efaf3a737510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_89
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b797e27ad7256c4ea28709755deca88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_90
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e325ddf2e58d724fb5bccff2ca8f02a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52454d104b893459dc553463a93320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45889374e910a4bacc44dfd62fa889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7899373eb26a1249bc131420abc22a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_94
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca9901bcec9cb8429abcecf4edc3e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_95
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feefee27d8b570a449869cbe4d46e80e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba2c16c3cc0f4548af134d9948da77a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778e66ccfcb5324a856456308993e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_98
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963bb5c3f95d18049b2d89150d27a98c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc780a86abfe748aa8085eaf9e2753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_100
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb42fd59492c64a99316b80ee3e7ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_101
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b3f0cfb04edfe428ff825106e0c39d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_102
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c08395727d8f04a80d0320db3bc9a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_103
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed5145fb58a4514f83bebab7b0a55c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_104
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d87ecb70e66eb4b9e65da2bd9cbbb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_105
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aadb859e9449c4490f43c805feef55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275fdd83254c36a44bacc07a711014a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharp X68000 - Zugya - Player Ship_107
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8e57d61863924a9a0bf117819f0a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c95254fd9cc1b44290e02c1a524fc0e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
